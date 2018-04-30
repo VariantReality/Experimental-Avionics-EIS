@@ -60,7 +60,6 @@ The cost to buy the components and fabricate the enclosure comes to approximatel
 ## Recommended vendors
 - [Front panel express](https://www.frontpanelexpress.com/) (CNC and digital printing)
 - [Par-metal](http://www.par-metal.com/) (Sheet metal work)
-- [Fractal Avionics](https://www.tindie.com/products/j_omega/aircraft-engine-monitor-kit-6-cylinder/) (PCB)
 - [Shapeways](https://www.shapeways.com/) (3D printing)
 - [Digikey](https://www.digikey.com/) (Electronic components)
 
@@ -68,7 +67,7 @@ The cost to buy the components and fabricate the enclosure comes to approximatel
 
 1. Modify the faceplate graphic as desired and then order all of the parts listed above
 2. When the buttons and button guide arrive, they will require some cleanup. This can be done by sanding the edges where they touch the button guide or by forcing them into the button guide and then repeatedly cycling them back and forth.
-3. Assemble the PCB. I would highly recommend doing this in stages and verifying functionality after each stage. Alternately, you can buy the pre-assembled PCB from [Fractal Avionics](https://www.tindie.com/products/j_omega/aircraft-engine-monitor-kit-6-cylinder/).
+3. Assemble the PCB. I would highly recommend doing this in stages and verifying functionality after each stage.
      1. Power supply circuit (verify power LED turns on)
      2. ATMega2560 circuit (verify that Atmel Studio can query the ATMega's ID)
      3. Warning light (verify that the ATMega can toggle the warning light)
