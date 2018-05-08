@@ -2,6 +2,9 @@
 
 ![alt text](Renders/EIS%20Dimetric%20Front.jpg)
 
+## Contact Information
+https://hackaday.io/jomega
+
 ## Description
 In an effort to bring homebuilt avionics to the experimental aircraft community, I have created a set of plans for a homebuilt aircraft engine monitor.  The processor system is based on the same technology found in the Arduino board, allowing the builder to easily add custom firmware. All of the mechanical parts can be sent to hobbyist-friendly fabrication services at reasonable costs or built at home. Since the mechanical dimensions are provided, the builder can also design a custom case. 
 
